@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>https://quietnightstudio.com/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 17 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://quietnightstudio.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meet the Team</title>
+      <link>https://quietnightstudio.com/about/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://quietnightstudio.com/about/</guid>
+      <description>About Page # This isn&amp;rsquo;t complete yet, but check back soon!
+Eat some chips or something.</description>
+    </item>
+    
+    <item>
+      <title>Our First Project</title>
+      <link>https://quietnightstudio.com/posts/sokodot/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://quietnightstudio.com/posts/sokodot/</guid>
+      <description>A remake of Sokoban using Godot Sokodot # This is v1.0.0 of our first project, a Sokoban game named &amp;ldquo;Sokodot&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
